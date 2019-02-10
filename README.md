@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="images/logo_lg.png"></div>
+<div style="text-align: center;"><img src="images/logo_lg.png" style="width: 320px;border-radius: 10px;"></div>
 
 ## perches
 
