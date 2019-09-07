@@ -1,7 +1,7 @@
 ---
 layout: default
 image: /assets/logo-lg.png
-title: perches
+title: The Assembled Newbie Programmer
 ---
 
 **perches は 若手エンジニアのためのプログラミングサークル**です。
