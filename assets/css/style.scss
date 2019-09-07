@@ -10,14 +10,6 @@ body {
   background-image: linear-gradient(120deg, #464646, #e2203c, #f13955);
 
   .page-header-logo {
-    @include large {
-      width: 12rem;
-    }
-    @include medium {
-      width: 10rem;
-    }
-    @include small {
-      width: 8rem;
-    }
+    width: 12rem;
   }
 }
